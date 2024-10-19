@@ -9,7 +9,7 @@ body {
     display: flex;
     flex-direction: row;
     flex: auto;
-    background-image: url('./images/banner.png');
+    background-image: url('Images/banner.png');
     background-repeat: no-repeat;
     background-size: cover;
     padding: 2% 5% 2% 5%;
